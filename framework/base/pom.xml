@@ -36,7 +36,7 @@
 
         <lombok.version>1.16.16</lombok.version>
         <springfox-swagger.version>2.7.0</springfox-swagger.version>
-        <fastjson.version>1.2.41</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
